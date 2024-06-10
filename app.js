@@ -1,6 +1,7 @@
 const opts = {
   container: "#visualization",
-  api_key: "tnCbAlSozHJR7dOpI1GIcU-LUmwBOQFZZ0AD3epZ9GOeIkdE8D2_ILHB5Z3Qmbav",
+  //   api_key: "<ADD YOUR API KEY HERE>",
+  api_key: "_pLBfvc6HA_RnHBYk30N4A9ggmq4JMAafc1sFJKeBz1yOHUVNkuBvoh1YUKsyiZh",
   base_visualisation_id: "17078430",
 };
 
